@@ -18,7 +18,8 @@
   },
   "license": "MIT",
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "main": "lib/index.js",
   "scripts": {
